@@ -17,5 +17,5 @@ make
 ./main < in_set.txt 
 
 ## Autores:
-Túlio - 
+Túlio Santos - https://github.com/Tuliogui 
 Vinícius Nascimento Silva - https://github.com/vnszero
